@@ -1,0 +1,16 @@
+html, body { background-color: #999; height: 100%; width: 100%; }
+
+.circle { position: absolute; }
+.circle img { position: absolute; left: 0; top: 0;}
+
+.circle .orange {
+	background-color: transparent;
+	/*border: 1px solid blue; */
+	height: 100%; width: 100%;
+	/*filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=scale,src=/CircleSizeDemo/img/circle.png); }*/
+.circle .white {
+	background-color: transparent;
+	/*border: 1px solid red; */
+	height: 100%; width: 100%;
+	/*filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=scale,src=/CircleSizeDemo/img/circle-3.png);*/
+}
